@@ -5,7 +5,7 @@
 [![PyPI - Downloads](https://img.shields.io/pepy/dt/langchain-sprites)](https://pypistats.org/packages/langchain-sprites)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langchain_oss.svg?style=social&label=Follow%20%40LangChain)](https://x.com/langchain_oss)
 
-[Fly.io Sprites](https://sprites.dev) sandbox integration for Deep Agents. Sprites are persistent, named Linux VMs. A Sprite starts in 1 to 2 seconds, stops automatically when it is idle (a stopped Sprite has no cost), and supports fast checkpoint and restore of the full machine state.
+[Fly.io Sprites](https://fly.io/sprites) sandbox integration for Deep Agents. Sprites are persistent, named Linux VMs. A Sprite starts in 1 to 2 seconds, stops automatically when it is idle (a stopped Sprite has no cost), and supports fast checkpoint and restore of the full machine state.
 
 Looking for the JS/TS version? Check out [LangChain.js](https://github.com/langchain-ai/langchainjs).
 
